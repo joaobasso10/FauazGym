@@ -48,7 +48,7 @@ nav img{
     background-image: url(/assets/gymBg.jpg);
     background-size: cover;
     background-position: 50%;
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
 }
 .assets{
     display: flex;
